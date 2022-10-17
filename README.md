@@ -8,7 +8,7 @@
 ### 프로젝트 내용
 강진 고려청자 박물관에서 전시중인 Oculus Quest 2를 활용한 청자 만들기 시뮬레이터입니다.
 
-<img width="30%" src="https://user-images.githubusercontent.com/90584581/196122544-f92992e9-9dd0-4ad2-8dea-14712995f3fc.jpg"/>  <img width="30%" src="https://user-images.githubusercontent.com/90584581/196123417-8794d442-24d7-4815-9436-e45f57a0b9d8.jpg"/>
+<img width="30%" src="https://user-images.githubusercontent.com/90584581/196122544-f92992e9-9dd0-4ad2-8dea-14712995f3fc.jpg"/>  <img width="30%" src="https://user-images.githubusercontent.com/90584581/196123417-8794d442-24d7-4815-9436-e45f57a0b9d8.jpg"/>  
 
 ### 프로젝트 투입 인원
 개발자 1, 디자이너 1
