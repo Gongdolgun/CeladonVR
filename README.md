@@ -19,5 +19,9 @@
 - 버그 수정 및 현장 설치
 
 ### 주요 코드
+Motion Controller의 Trigger 액션과 Grab액션을 기반으로 전체적인 프로젝트의 틀을 잡았으며 각종 기능의 세부적인 부분을 구현하였습니다.\
+
+<img width="80%" src="https://user-images.githubusercontent.com/90584581/196135058-3e8d200d-b819-4617-8af3-2c2a5c8a88e2.png"/>\
+<img width="80%" src="https://user-images.githubusercontent.com/90584581/196135065-7dc4ae73-defc-4d14-9297-c28deb32ab60.png"/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
