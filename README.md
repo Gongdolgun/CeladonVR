@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CeladonVR&fontSize=60)
+
 # CeladonVR
 
 ### 프로젝트 기간
@@ -15,3 +17,5 @@
 - 버그 수정 및 현장 설치
 
 ### 주요 코드
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
