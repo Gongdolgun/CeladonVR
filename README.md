@@ -8,6 +8,9 @@
 ### [기술 스택]
 <img src="https://img.shields.io/badge/Unreal Engine-000000?style=flat-square&logo=Unreal Engine&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>  <img src="https://img.shields.io/badge/Oculus-5294E2?style=flat-square&logo=Oculus&logoColor=white"/>  <img src="https://img.shields.io/badge/Synology-B5B5B6?style=flat-square&logo=Synology&logoColor=white"/>
 
+### [아키텍처]
+<img width="80%" src="https://user-images.githubusercontent.com/90584581/197385627-3cf04ce7-3bc6-4fc2-995c-bb92a17e8aad.png"/>
+
 ### [프로젝트 내용]
 강진 고려청자 박물관에서 전시중인 Oculus Quest 2를 활용한 청자 만들기 시뮬레이터입니다.
 
