@@ -6,7 +6,7 @@
 2022.06 ~ 2022.09
 
 ### [기술 스택]
-<img src="https://img.shields.io/badge/Unreal Engine-000000?style=flat-square&logo=Unreal Engine&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>  <img src="https://img.shields.io/badge/Oculus-5294E2?style=flat-square&logo=Oculus&logoColor=white"/>  <img src="https://img.shields.io/badge/Synology-B5B5B6?style=flat-square&logo=Synology&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unreal Engine-000000?style=flat-square&logo=Unreal Engine&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>  <img src="https://img.shields.io/badge/Blueprint-137CBD?style=flat-square&logo=Blueprint&logoColor=white"/>  <img src="https://img.shields.io/badge/Oculus-5294E2?style=flat-square&logo=Oculus&logoColor=white"/>  <img src="https://img.shields.io/badge/Synology-B5B5B6?style=flat-square&logo=Synology&logoColor=white"/>
 
 ### [아키텍처]
 <img width="80%" src="https://user-images.githubusercontent.com/90584581/197385627-3cf04ce7-3bc6-4fc2-995c-bb92a17e8aad.png"/>
